@@ -1,0 +1,11 @@
+[package]
+name = "bevy_lighting_rust"
+version = "0.0.1"
+edition = "2023"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = "0.10.1"
+bevy_render = "0.10.1"
+bevy_prototype_lyon = "0.8.0"
